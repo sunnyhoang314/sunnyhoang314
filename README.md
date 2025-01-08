@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am currently a student at the University of Calgary pursuing a degree in Computer Science. I have interests in software engineering and game development. In my spare time, I like to play FPS games such as Escape from Tarkov, Insurgency Sandstorm, Counter-Strike 2, and many more. I like to listen to music such as Canto-pop (specifically from the 80s-90s) and J-Pop.</p>
+<p align="left">I am currently a student at the University of Calgary pursuing a degree in Computer Science. I have interests in software engineering fullstack developmen, and game development. In my spare time, I like to play FPS games such as Escape from Tarkov, Insurgency Sandstorm, Counter-Strike 2, and many more. I like to listen to music such as Canto-pop (specifically from the 80s-90s) and J-Pop.</p>
 
 ###
 
